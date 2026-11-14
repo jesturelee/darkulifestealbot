@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "orvythmc.sadhost.com",
-    "port": 27778,
+    "ip": "JESTURELEE.aternos.me",
+    "port": 25957,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -19,8 +19,8 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
-      "password": "DarkZyroxback"
+      "enabled": false,
+      "password": "dlwnsdn0325"
     },
     "anti-afk": {
       "enabled": true,
